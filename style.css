@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+
+body {
+background-color: #f4fce3;
+height: 100vh;
+font-family: 'Roboto', sans-serif;
+}
+
+
+.container {
+margin: 0 auto;    
+width: 1000px;   
+}
+
+
+.titulo-1 {  
+padding: 50px;   
+font-size: 50px;
+font-weight: bold;
+text-align: center;
+}
+
+
+.box-1 {
+padding: 20px;    
+    
+}
+
+
+.artigos-1 h2 {
+width: 800px;
+font-weight: bold;
+font-size: 25px;
+color: #343a40;
+}
+
+
+
+.paragrafo-1 {
+width: 800px;    
+padding-bottom: 2px;    
+padding-top: 15px;
+font-size: 18px;
+}
+
+
+.negrito {
+color: blue;
+font-weight: bold;    
+}
+
+
+
+.paragrafo-2 {
+margin-bottom: 10px; 
+padding-bottom: 2px;    
+padding-top: 15px;
+font-size: 18px; 
+}
+
+
+.pequeno {
+font-size: 13px;    
+}
+
+.link-1 {
+padding: 6px;
+background:#212529;
+border: 1px solid;
+text-decoration: none;
+color: white;  
+}
+
+
+.link-1:hover {
+background-color: #868e96;    
+}
+
+.box-2 {
+padding: 20px;    
+}
+
+.artigo-2 h2 {
+width: 800px;    
+font-weight: bold;
+font-size: 25px;
+color: #343a40;    
+}
+
+
+.paragrafo-3 {
+width: 800px;     
+padding-bottom: 2px;    
+padding-top: 15px;
+font-size: 18px;    
+}
+
+
+
+.paragrafo-4 {
+margin-bottom: 10px; 
+padding-bottom: 2px;    
+padding-top: 15px;
+font-size: 18px;    
+}
+
+
+.pequeno2 {
+font-size: 13px;    
+}
+
+
+.link-2 {
+padding: 6px;
+background:#212529;
+border: 1px solid;
+text-decoration: none;
+color: white;    
+}
+
+.link-2:hover {
+background-color: #868e96;    
+}
+
+
+.box-3 {
+padding: 20px;    
+}
+
+.artigo-3 h2 {
+width: 800px;    
+font-weight: bold;
+font-size: 25px;
+color: #343a40;   
+}
+
+
+.paragrafo-5 {
+width: 800px;     
+padding-bottom: 2px;    
+padding-top: 15px;
+font-size: 18px;   
+}
+
+
+.paragrafo-6 {
+margin-bottom: 10px; 
+padding-bottom: 2px;    
+padding-top: 15px;
+font-size: 18px;   
+}
+
+.link-3 {
+padding: 6px;
+background:#212529;
+border: 1px solid;
+text-decoration: none;
+color: white;    
+}
+
+.link-3:hover {
+background-color: #868e96;    
+}
+
+
+.newsletter {
+padding: 20px;
+font-size: 30px;
+font-weight: bold;
+color: #343a40;   
+}
+
+.paragrafo-7 {
+margin-left: 20px;    
+font-size: 20px;
+padding: 5px;
+font-weight: bold;
+color: #343a40;
+}
+
+.formulario {
+background-color: #868e96;    
+border: 1px solid;
+padding: 10px;
+width: 348px; 
+margin-left: 20px;  
+}
+
+.formulario button { 
+border-radius: 5%;
+background-color: #212529;
+color: white;    
+}
+
+.formulario button:hover {
+background-color: #868e96;    
+}
